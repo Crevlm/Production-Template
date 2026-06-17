@@ -103,7 +103,6 @@ This creates a consistent production process across multiple disciplines.
 
 ---
 
-# Included Templates
 
 # Included Templates
 
