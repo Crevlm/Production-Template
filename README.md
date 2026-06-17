@@ -105,6 +105,13 @@ This creates a consistent production process across multiple disciplines.
 
 # Included Templates
 
+# Included Templates
+
+- [Task Template](templates/task-template.md)
+- [Sprint Template](templates/sprint-template.md)
+- [Milestone Template](templates/milestone-template.md)
+- [Project Template](templates/project-template.md)
+
 ## Task Template
 
 Used for individual work items.
